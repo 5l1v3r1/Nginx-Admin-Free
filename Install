@@ -1,0 +1,14 @@
+Installation Instruction
+Nginx Admin Install instruction:
+
+cd /usr/local/src
+
+wget http://nginxcp.com/latest/nginxadmin.tar 
+
+tar xf nginxadmin.tar
+
+cd publicnginx
+
+./nginxinstaller install 
+
+Thanks For Visite by:- Shekhar Suman
